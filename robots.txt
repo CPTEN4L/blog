@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cpten4l.github.io/blog/sitemap.xml
