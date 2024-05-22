@@ -3,7 +3,7 @@
     <title>CPTen4L</title>
     <link href="https://cpten4l.github.io/blog/feed.xml" rel="self" />
     <link href="https://cpten4l.github.io/blog" />
-    <updated>2024-03-04T19:17:09+01:00</updated>
+    <updated>2024-05-22T10:53:41+02:00</updated>
     <author>
         <name>Ektorp</name>
     </author>
@@ -178,7 +178,7 @@
         <id>https://cpten4l.github.io/blog/les-sponsors/</id>
         <media:content url="https://cpten4l.github.io/blog/media/posts/2/026.JPG" medium="image" />
 
-        <updated>2024-03-04T19:17:09+01:00</updated>
+        <updated>2024-05-22T10:53:41+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cpten4l.github.io/blog/media/posts/2/026.JPG" alt="" />
@@ -207,7 +207,7 @@
     </h2>
 
   <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
+    <div class="gallery" data-columns="2">
       <figure class="gallery__item">
       <a href="https://cpten4l.github.io/blog/media/posts/2/gallery/LOGO-LLV-AVOCAT-fondNOIR.png" data-size="1038x920">
         <img loading="lazy" src="https://cpten4l.github.io/blog/media/posts/2/gallery/LOGO-LLV-AVOCAT-fondNOIR-thumbnail.png" height="638" width="720" alt="LLV Avocat" >
@@ -223,6 +223,11 @@
         <img loading="lazy" src="https://cpten4l.github.io/blog/media/posts/2/gallery/Logotype_MSB_complet_blanc-thumbnail.png" height="381" width="720" alt="MSB Informatique" >
       </a>
       <figcaption>MSB Informatique</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://cpten4l.github.io/blog/media/posts/2/gallery/IMMO_Services.jpg" data-size="16634x15651">
+        <img loading="lazy" src="https://cpten4l.github.io/blog/media/posts/2/gallery/IMMO_Services-thumbnail.jpg" height="677" width="720" alt="Immo Services" >
+      </a>
+      <figcaption>Immo Services</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://cpten4l.github.io/blog/media/posts/2/gallery/LOGO-LES_VILLAS-DASTORIA-blanc.jpg" data-size="2924x1398">
         <img loading="lazy" src="https://cpten4l.github.io/blog/media/posts/2/gallery/LOGO-LES_VILLAS-DASTORIA-blanc-thumbnail.jpg" height="344" width="720" alt="Les Villas d'A Storia" >
