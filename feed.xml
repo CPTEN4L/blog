@@ -3,7 +3,7 @@
     <title>CPTen4L</title>
     <link href="https://cpten4l.github.io/blog/feed.xml" rel="self" />
     <link href="https://cpten4l.github.io/blog" />
-    <updated>2024-06-02T18:03:20+02:00</updated>
+    <updated>2024-06-02T23:27:32+02:00</updated>
     <author>
         <name>Ektorp</name>
     </author>
@@ -178,7 +178,7 @@
         <id>https://cpten4l.github.io/blog/les-sponsors/</id>
         <media:content url="https://cpten4l.github.io/blog/media/posts/2/026.JPG" medium="image" />
 
-        <updated>2024-06-02T18:03:20+02:00</updated>
+        <updated>2024-06-02T23:27:32+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cpten4l.github.io/blog/media/posts/2/026.JPG" alt="" />
@@ -209,6 +209,16 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
+      <a href="https://cpten4l.github.io/blog/media/posts/2/gallery/logo-full.png" data-size="408x216">
+        <img loading="lazy" src="https://cpten4l.github.io/blog/media/posts/2/gallery/logo-full-thumbnail.png" height="216" width="408" alt="AJILEC" >
+      </a>
+      <figcaption>AJILEC</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://cpten4l.github.io/blog/media/posts/2/gallery/Logo-TE-Fond-blanc-S-PNG.png" data-size="994x500">
+        <img loading="lazy" src="https://cpten4l.github.io/blog/media/posts/2/gallery/Logo-TE-Fond-blanc-S-PNG-thumbnail.png" height="362" width="720" alt="Telecoms Entreprises" >
+      </a>
+      <figcaption>Telecoms Entreprises</figcaption>
+    </figure><figure class="gallery__item">
       <a href="https://cpten4l.github.io/blog/media/posts/2/gallery/LOGO-LLV-AVOCAT-fondNOIR.png" data-size="1038x920">
         <img loading="lazy" src="https://cpten4l.github.io/blog/media/posts/2/gallery/LOGO-LLV-AVOCAT-fondNOIR-thumbnail.png" height="638" width="720" alt="LLV Avocat" >
       </a>
